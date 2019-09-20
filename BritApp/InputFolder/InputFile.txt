@@ -1,0 +1,3 @@
+﻿add 2
+multiply 3
+apply 3
